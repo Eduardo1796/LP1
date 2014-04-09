@@ -24,7 +24,7 @@
     <td height="48" colspan="2"><div align="center">64/54/45</div></td>
   </tr>
   <tr>
-    <td width="105">Nombre</td>
+    <td width="105">Nombre del usuario</td>
     <td width="412"><form id="form1" name="form1" method="post" action="">
       <input name="textfield" type="text" size="20" maxlength="2" />
     </form>    </td>
